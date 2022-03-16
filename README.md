@@ -6,7 +6,9 @@
 https://to-on-kikaku.github.io/audiotime/sct.html
 
 ## バスティンアプリ
+https://to-on-kikaku.github.io/bastienapps/eula.html
 https://to-on-kikaku.github.io/bastienapps/sct.html
 
 ## おんぷのプラネット
+https://to-on-kikaku.github.io/onpu_planet/eula.html
 https://to-on-kikaku.github.io/onpu_planet/sct.html
