@@ -88,12 +88,12 @@ a:hover {
 <body class="body">
 <header class="header grid-middle">
   <div class="col-12 border-bottom-1-ptna_red">
-    <h1 class="font-size-1-5">利用規約</h1>
+    <h1 class="font-size-1-5">利用規約　株式会社東音企画</h1>
   </div>
 </header>
 <main class="main grid-middle">
   <div class="col-12">
-    <h2 class="font-size-1-3 margin-bottom-1">東音アプリ利用規約　株式会社東音企画</h2>
+    <h2 class="font-size-1-3 margin-bottom-1">東音アプリ　利用規約</h2>
     <p class="font-size-1 margin-bottom-2"この利用規約（以下，「本規約」といいます。）は，東音企画（以下，「当社」といいます。）が運営するサービス、東音アプリ（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。</p>
    　<div class="font-size-1">
       <ul class="margin-bottom-3">
@@ -113,7 +113,6 @@ a:hover {
             <li>(3)未成年者，成年被後見人，被保佐人または被補助人のいずれかであり，法定代理人，後見人，保佐人または補助人の同意等を得ていなかった場合</li>
             <li>(4)反社会的勢力等（暴力団，暴力団員，右翼団体，反社会的勢力，その他これに準ずる者を意味します。）である，または資金提供その他を通じて反社会的勢力等の維持，運営もしくは経営に協力もしくは関与する等反社会的勢力との何らかの交流もしくは関与を行っていると当社が判断した場合</li>
             <li>(5)その他，当社が利用登録を相当でないと判断した場合</li>
-          <br>
           </ul>
         </li>
         <li class="margin-bottom-2">
@@ -248,7 +247,7 @@ a:hover {
          <h3 class="font-size-1-1">第15条 個人情報の取り扱いについて</h3>
           <br>
            <ul class="margin-left-1">
-           <li>個人情報の取扱いについては、以下のページの定めに従いものとします。<br><a href="https://www.to-on.com/about/privacy">個人情報の取り扱いについて</a></li>
+           <li>個人情報の取扱いについては、以下のページの定めに従うものとします。<br><a href="https://www.to-on.com/about/privacy">個人情報の取り扱いについて</a></li>
            <br>
            <li>以上</li>
           </ul>
