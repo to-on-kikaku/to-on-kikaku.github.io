@@ -88,13 +88,13 @@ a:hover {
 <body class="body">
 <header class="header grid-middle">
   <div class="col-12 border-bottom-1-ptna_red">
-    <h1 class="font-size-1-5">利用規約　株式会社東音企画</h1>
+    <h1 class="font-size-1-5">東音企画・アプリコンテンツ　利用規約</h1>
   </div>
 </header>
 <main class="main grid-middle">
   <div class="col-12">
-    <h2 class="font-size-1-3 margin-bottom-1">東音アプリ　利用規約</h2>
-    <p class="font-size-1 margin-bottom-2"この利用規約（以下，「本規約」といいます。）は，東音企画（以下，「当社」といいます。）が運営するサービス、東音アプリ（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。</p>
+    <h2 class="font-size-1-3 margin-bottom-1">利用規約</h2>
+    <p class="font-size-1 margin-bottom-2"この利用規約（以下，「本規約」といいます。）は，東音企画（以下，「当社」といいます。）が運営するサービス、東音企画・アプリコンテンツ（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。</p>
    　<div class="font-size-1">
       <ul class="margin-bottom-3">
         <li class="margin-bottom-2">
