@@ -12,3 +12,7 @@
 ## おんぷのプラネット
 * https://to-on-kikaku.github.io/onpu_planet/eula.html
 * https://to-on-kikaku.github.io/onpu_planet/sct.html
+
+## バスティン プラス
+* https://to-on-kikaku.github.io/bastien_plus/app_terms.html
+* https://to-on-kikaku.github.io/bastien_plus/privacy_policy.html
